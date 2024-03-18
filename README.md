@@ -7,3 +7,5 @@ This is a full Power BI Portfolio project that involves the use of Power BI tool
 ✅ Get FREE Power BI Training: [https://www.youtube.com/watch?v=ZKDvlAAjbNk&t=658s]
 
 ⭐ Watch this project in SQL: [https://www.youtube.com/watch?v=eQ83-J57DZY&t=324s] 
+
+Download raw data from [https://github.com/kahethu/Power-BI-Portfolio-Project/commit/986e008e4bb106823fd55562d2e91e26991ce5c4]
